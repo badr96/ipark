@@ -1,0 +1,8 @@
+use Mbcars
+
+db.customer({
+	user: "badr",
+	pwd : "1234",
+
+
+});
