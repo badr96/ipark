@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ipark</string>
+    <string name="title_activity_maps">Ipark</string>
+    <string name="google_maps_key">AIzaSyCAj9ScGCrDSdKr7CP4ihBNcRRMf5H9b8o</string>
+</resources>
